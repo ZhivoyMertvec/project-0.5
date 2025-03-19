@@ -1,0 +1,10 @@
+E:\3021\Бик, Сагдеев\лр1.1\bin\Debug\лр1.1.exe.config
+E:\3021\Бик, Сагдеев\лр1.1\bin\Debug\лр1.1.exe
+E:\3021\Бик, Сагдеев\лр1.1\bin\Debug\лр1.1.pdb
+E:\3021\Бик, Сагдеев\лр1.1\obj\Debug\лр1._1.Form1.resources
+E:\3021\Бик, Сагдеев\лр1.1\obj\Debug\лр1._1.Properties.Resources.resources
+E:\3021\Бик, Сагдеев\лр1.1\obj\Debug\лр1.1.csproj.GenerateResource.Cache
+E:\3021\Бик, Сагдеев\лр1.1\obj\Debug\лр1.1.exe
+E:\3021\Бик, Сагдеев\лр1.1\obj\Debug\лр1.1.pdb
+E:\3021\Бик, Сагдеев\лр1.1\obj\Debug\лр1.1.csproj.AssemblyReference.cache
+E:\3021\Бик, Сагдеев\лр1.1\obj\Debug\лр1.1.csproj.CoreCompileInputs.cache
